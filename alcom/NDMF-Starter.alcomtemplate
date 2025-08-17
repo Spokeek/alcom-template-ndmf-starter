@@ -1,0 +1,18 @@
+{
+  "$type": "com.anatawa12.vrc-get.custom-template",
+  "formatVersion": "1.0",
+  "displayName": "NDMF Starter",
+  "updateDate": "2025-08-17T20:50:35.942061300Z",
+  "id": "fr.spokeek.alcom-templates.ndmf-starter",
+  "base": "com.anatawa12.vrc-get.vrchat.avatars",
+  "unityVersion": ">=2022.3.6-f1",
+  "vpmDependencies": {
+    "nadena.dev.modular-avatar": "*",
+    "com.anatawa12.gists": "*",
+    "com.anatawa12.avatar-optimizer": "*",
+    "vrchat.blackstartx.gesture-manager": "*",
+    "net.rs64.tex-trans-tool": "*",
+    "net.narazaka.vrchat.avatar-menu-creater-for-ma": "*"
+  },
+  "unityPackages": []
+}
