@@ -1,11 +1,11 @@
 {
   "$type": "com.anatawa12.vrc-get.custom-template",
-  "formatVersion": "1.0",
+  "formatVersion": "1.1",
   "displayName": "NDMF Starter",
-  "updateDate": "2025-08-17T20:50:35.942061300Z",
+  "updateDate": "2025-08-19T19:42:59.439482400Z",
   "id": "fr.spokeek.alcom-templates.ndmf-starter",
   "base": "com.anatawa12.vrc-get.vrchat.avatars",
-  "unityVersion": ">=2022.3.6-f1",
+  "unityVersion": "2022.3.6",
   "vpmDependencies": {
     "nadena.dev.modular-avatar": "*",
     "com.anatawa12.gists": "*",
